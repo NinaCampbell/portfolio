@@ -260,3 +260,13 @@ footer {
     padding-bottom: 7px;
     margin-top: -60px;
 }
+
+
+/***********************************
+           MEDIA QUERIES
+************************************/
+
+/* IPAD SCREEN */
+@media screen and (min-width:1024) {
+    
+}
